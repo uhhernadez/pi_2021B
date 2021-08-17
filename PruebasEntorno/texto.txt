@@ -1,0 +1,3 @@
+¡Esto es solo una prueba!
+F:\msys64
+pacman -Syu
