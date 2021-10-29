@@ -40,6 +40,6 @@ int main() {
   for (int &p : posiciones) {
     cout << "Hay una letra '" << letra << "' en la posicion: " << p << endl; 
   }
-
+  
   return 0;
 }
